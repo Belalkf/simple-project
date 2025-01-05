@@ -1,0 +1,3 @@
+# ignore folder backend/node_modules firstly
+backend/node_modules
+
